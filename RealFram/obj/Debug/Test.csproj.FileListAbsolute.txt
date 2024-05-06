@@ -1,0 +1,2 @@
+D:\Study_Unity\AssetLoadingFramework siki\RealFram\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Study_Unity\AssetLoadingFramework siki\RealFram\obj\Debug\Test.csproj.CoreCompileInputs.cache
